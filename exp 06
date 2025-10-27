@@ -106,8 +106,8 @@ Output:
 4. Show Playlist History (Display)
 5. Exit
 Enter choice: 1
-Enter song name: abcd
-Now playing: abcd
+Enter song name: piya
+Now playing: piya
 
 --- Music Player Menu ---
 1. Play New Song (Push)
@@ -116,8 +116,8 @@ Now playing: abcd
 4. Show Playlist History (Display)
 5. Exit
 Enter choice: 1
-Enter song name: efgh
-Now playing: efgh
+Enter song name: riya
+Now playing: riya
 
 --- Music Player Menu ---
 1. Play New Song (Push)
@@ -126,5 +126,5 @@ Now playing: efgh
 4. Show Playlist History (Display)
 5. Exit
 Enter choice: 2
-Stopping: efgh
-Now playing: abcd
+Stopping: riya
+Now playing: piya
